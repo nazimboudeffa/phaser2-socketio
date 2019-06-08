@@ -1,5 +1,5 @@
 {
-  "name": "phaser2-ce-socketio",
+  "name": "phaser-socketio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albator2018/phaser2-ce-socketio.git"
+    "url": "git+https://github.com/nazimboudeffa/phaser-socketio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/albator2018/phaser2-ce-socketio/issues"
+    "url": "https://github.com/nazimboudeffa/phaser-socketio/issues"
   },
-  "homepage": "https://github.com/albator2018/phaser2-ce-socketio#readme"
+  "homepage": "https://github.com/nazimboudeffa/phaser-socketio#readme"
 }
